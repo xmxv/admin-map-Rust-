@@ -17,9 +17,6 @@ Configure line 71 to adjust the usergroups that should have access to the map.
 
 Teleporting occurs when the marker is placed down and then removed. This means you need to double right click on the map to be teleported. Helps to solve accidental tp's. 
 
-
-**( This plugin is currently untested and I would really appreciate it if someone could test it for me. )**
-
 Report any issues. 
 
 Contact me for anything else. 
